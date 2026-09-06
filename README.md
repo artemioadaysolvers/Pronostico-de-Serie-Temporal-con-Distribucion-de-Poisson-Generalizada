@@ -1,3 +1,5 @@
+
+
 # Serie-Temporal-con-Distribuci-n-de-Poisson-Generalizada
 Implementación de Algoritmo de Machine Learning para el Pronóstico de Series Temporales que distribuyen de Poisson Generalizada. La compoente tendencial del Modelo está determinado por la función logística generalizada y el compontente estacional con Series de Fourier.
 
@@ -5,6 +7,8 @@ Utilizando regularización Ridge.
 
 El modelo es optimizado en Python con TensorFlow
 
+Historia del Documento
+~ Un viajero en el tiempo llevó un algoritmo moderno al pasado, lo documentó con la estética académica de los años 80 en plena guerra fría y luego regresó para publicar su implementación en GitHub cuando fue desclasificado y mecanografiado en pleno 2026~
 
 ## Bibliografía
 
