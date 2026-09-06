@@ -1,4 +1,5 @@
-<img width="1024" height="426" alt="AutoMindAntiguo2" src="https://github.com/user-attachments/assets/c127ea8c-c7e5-40a1-bdd4-e23324c8e065" />
+
+<img width="1024" height="426" alt="AutoMindAntiguo2" src="https://github.com/user-attachments/assets/d7cc4ac5-4224-44d7-b817-abc47e1af329" />
 
 
 # Serie-Temporal-con-Distribuci-n-de-Poisson-Generalizada
