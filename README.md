@@ -31,3 +31,9 @@ Historia del Documento
 * Richards, F. J. (1959). A Flexible Growth Function for Empirical Use. *Journal of Experimental Botany, 10*(2), 290–301. https://doi.org/10.1093/jxb/10.2.290
 
 * Taylor, S. J., & Letham, B. (2018). Forecasting at Scale. *The American Statistician, 72*(1), 37–45. https://doi.org/10.1080/00031305.2017.1380080
+
+---
+
+## Derechos de autor
+
+© 2026 AutoMind Ltda. Todos los derechos reservados.
