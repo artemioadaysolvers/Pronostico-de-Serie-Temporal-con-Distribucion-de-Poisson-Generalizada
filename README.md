@@ -3,4 +3,4 @@ Implementación de Algoritmo de Machine Learning para el Pronóstico de Series T
 
 Utilizando regularización Ridge.
 
-La optimización del Modelo
+El modelo es optimizado en Python con TensorFlow
