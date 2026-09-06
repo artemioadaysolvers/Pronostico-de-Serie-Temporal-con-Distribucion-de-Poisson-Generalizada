@@ -14,7 +14,7 @@ El modelo es optimizado en Python con TensorFlow
 
 Historia del Documento
 
-~ Un viajero en el tiempo llevó un algoritmo moderno al pasado, fué mecanografiado con la estética académica de los años 80 en plena guerra fría y luego regresó para publicar su implementación en GitHub cuando fue desclasificado y digitalizado en pleno 2026 ~
+~ Un viajero en el tiempo llevó un algoritmo moderno al pasado, fué mecanografiado en los años 80 en plena guerra fría y luego regresó para publicar su implementación en GitHub cuando fue desclasificado y digitalizado en pleno 2026 ~
 
 ## Bibliografía
 
