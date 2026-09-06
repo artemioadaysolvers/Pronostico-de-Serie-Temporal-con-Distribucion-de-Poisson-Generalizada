@@ -20,6 +20,8 @@ Historia del Documento
 
 ### Referencias
 
+* Taylor, B. (1715). *Methodus Incrementorum Directa et Inversa*. William Innys, London, England.
+
 * Fourier, J. B. J. (1822). *Théorie analytique de la chaleur*. Firmin Didot, Paris, France.
 
 * Fisher, R. A. (1922). On the Mathematical Foundations of Theoretical Statistics. *Philosophical Transactions of the Royal Society of London. Series A, 222*, 309–368. https://doi.org/10.1098/rsta.1922.0009
