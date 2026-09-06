@@ -2,7 +2,7 @@
 <img width="1024" height="426" alt="AutoMindAntiguo2" src="https://github.com/user-attachments/assets/d7cc4ac5-4224-44d7-b817-abc47e1af329" />
 
 
-# Serie-Temporal-con-Distribuci-n-de-Poisson-Generalizada
+# Serie-Temporal-con-Distribucion-de-Poisson-Generalizada
 
 Implementación de Algoritmo de Machine Learning para el Pronóstico de Series Temporales que distribuyen Poisson Generalizada. 
 La componente tendencial del Modelo está determinado por la función logística generalizada, lo que le proporciona convergencia en el largo plazo. 
