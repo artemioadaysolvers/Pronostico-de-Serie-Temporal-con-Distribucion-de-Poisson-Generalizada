@@ -8,6 +8,7 @@ Utilizando regularización Ridge.
 El modelo es optimizado en Python con TensorFlow
 
 Historia del Documento
+
 ~ Un viajero en el tiempo llevó un algoritmo moderno al pasado, lo documentó con la estética académica de los años 80 en plena guerra fría y luego regresó para publicar su implementación en GitHub cuando fue desclasificado y mecanografiado en pleno 2026~
 
 ## Bibliografía
