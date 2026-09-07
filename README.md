@@ -6,7 +6,7 @@
 
 Implementación de Algoritmo de Machine Learning para el Pronóstico de Series Temporales que distribuyen Poisson Generalizada. 
 La componente tendencial del Modelo está determinado por la función logística generalizada, lo que le proporciona convergencia en el largo plazo. 
-Además posee un compoennte estacional con Series de Fourier.
+Además posee un compoennte estacional con Series de Fourier y .
 
 La función objetivo consiste en minimizar el negativo de a log-likelihood utilizando regularización para evitar overfitting.
 
@@ -15,6 +15,24 @@ El modelo es optimizado en Python con TensorFlow
 Historia del Documento
 
 ~ Un viajero en el tiempo llevó un algoritmo moderno al pasado, fué mecanografiado en los años 80 en plena guerra fría y luego regresó para publicar su implementación en GitHub cuando fue desclasificado y digitalizado en pleno 2026 ~
+
+
+<br>
+
+**Resultados**
+
+<br>
+
+<img
+  width="943"
+  height="445"
+  alt="Modelo matemático"
+  src="https://github.com/user-attachments/assets/4f7404da-be62-4fdb-bd15-70713a4213b2"
+/>
+
+<br>
+
+
 
 ## Bibliografía
 
