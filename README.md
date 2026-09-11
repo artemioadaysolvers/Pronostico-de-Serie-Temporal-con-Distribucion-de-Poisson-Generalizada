@@ -32,6 +32,12 @@ Historia del Documento
 />
 
 
+<img
+  width="943"
+  height="445"
+  alt="Modelo matemático"
+  src="https://github.com/user-attachments/assets/0707bce4-bed7-4377-939f-672b90b87172"
+/>
 
 
 <br>
