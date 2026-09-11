@@ -24,12 +24,7 @@ Historia del Documento
 <br>
 
 
-<img
-  width="943"
-  height="445"
-  alt="Modelo matemático"
-  src="https://github.com/user-attachments/assets/5f7490ae-b2aa-438c-a5c4-bb4a862cf81c"
-/>
+
 
 
 <img
