@@ -39,9 +39,8 @@ Historia del Documento
   width="943"
   height="445"
   alt="Modelo matemático"
-  src="https://github.com/user-attachments/assets/d1f534e7-5622-4771-8f1a-a81ea8916403"
+  src="https://github.com/user-attachments/assets/4352912e-9e9b-418f-9f7e-c4b2cbb37594"
 />
-
 
 <br>
 
