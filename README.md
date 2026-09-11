@@ -35,12 +35,11 @@ Historia del Documento
 />
 
 
-
 <img
   width="943"
   height="445"
   alt="Modelo matemático"
-  src="https://github.com/user-attachments/assets/56d0f91c-e5b1-4f1f-a461-c182e59c2567"
+  src="https://github.com/user-attachments/assets/e2eff4f9-b1f1-4261-85a7-20260cdc9b83"
 />
 
 
