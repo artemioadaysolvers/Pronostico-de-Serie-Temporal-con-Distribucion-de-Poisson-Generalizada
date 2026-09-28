@@ -25,13 +25,11 @@ Historia del Documento
 
 
 
-
-
 <img
   width="943"
   height="445"
   alt="Modelo matemático"
-  src="https://github.com/user-attachments/assets/0707bce4-bed7-4377-939f-672b90b87172"
+  src="https://github.com/user-attachments/assets/a92de36b-86c3-4c03-beaa-7b96f1c9366e"
 />
 
 
@@ -39,7 +37,7 @@ Historia del Documento
   width="943"
   height="445"
   alt="Modelo matemático"
-  src="https://github.com/user-attachments/assets/4352912e-9e9b-418f-9f7e-c4b2cbb37594"
+  src="https://github.com/user-attachments/assets/d560d45d-86ab-4c7f-9590-a1f65cea4f5f"
 />
 
 <br>
